@@ -1,0 +1,414 @@
+*{
+    margin:10px;
+} 
+body{
+    margin: 20px;
+}
+
+/* HEADER */
+.header{
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Hone{
+    font-size:70px;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+   font-size: x-large;
+}
+.Signup{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 60px 10px 60px;
+    color: white; 
+    font-family:'Helvetica Neue';
+    box-shadow: 9px 8px 1px -1px rgba(145, 144, 144, 0.705);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* Ist half */
+.HEADER{
+    padding: 15px;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content:left;
+    flex-wrap: wrap;
+}
+.Head{
+    display: grid;
+    grid-template-columns: repeat(3,470px);
+}
+.I,.IV{
+    border-radius: 8px;
+    height: 775px;
+    background-color: rgb(245, 245, 245);
+}
+.I{
+    background-image: url(model-wearing-beautiful-shade-clothing.jpg);
+    background-position:20%;
+    background-size: cover;
+}
+.IV{
+    background-image: url(fashion.jpeg);
+    background-size: cover;
+}
+.head{
+    height: 750px;
+}
+.II{
+    margin: 0%;
+    height:150px;
+    border-radius: 10px;
+    font-size:50px;
+    background-color: rgb(245, 245, 245);
+    background-image: url(istock.jpg);
+    background-size:500px;
+    background-repeat: no-repeat;
+    
+}
+.content{
+    margin-bottom:10%;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin:11px;
+}
+#h2{
+   margin:0%;
+   font-size:90px;
+   color: rgb(110, 103, 103);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#h1{
+    margin: 0%;
+    font-size:170px;
+    background-image:url(hotair.jpg) ;
+    background-position:20%;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#h5{
+    font-size:x-large;
+    padding-bottom: 10px;
+}
+#text{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+.III{
+   margin: 0%;
+   height:150px;
+   border-radius: 10px;
+   background-color: rgb(223, 219, 219);
+   background-image: url(FASHION.webp);
+   background-position:top;
+   background-size: cover;
+}
+.content2{
+    margin-right:10%;
+    display: flex;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+#CHANEL{
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    margin-left:0%;
+    font-size:77px;
+}
+#LOUIS{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:29px;
+    margin-top:40px;
+
+}
+#PRADA{
+    font-family:'Times New Roman', Times, serif;
+     font-size:77px;
+}
+#CALVIN{
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    margin-top:30px;
+    font-size:37px;
+}
+#DENIM{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:77px;
+}
+/* SECOND */
+.Second{
+    outline-style:inset;
+    outline-width: 0px;
+    box-shadow: 0px 0px 1px 1px black;
+}
+.HEAD{
+    width: auto;
+    display: grid;
+    grid-template-columns: repeat(4,400px);
+}
+.Box{
+    margin: 0%;
+    height:350px;
+    width:500px;
+    background-color: rgb(219, 221, 223);
+}
+#ist{
+    width:700px;
+    margin-right:100px;
+    background-color: white;
+}
+h1{
+    font-size:70px;
+    color: rgba(44, 44, 44, 0.801);
+}
+.Para{
+    font-size:xx-large;
+    text-align: justify;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px 40px 40px 0px ;
+}
+#Buy{
+    height: auto;
+    font-size:larger;
+    padding: 20px 120px 20px 120px;
+}
+.H5{
+    padding:20px 20px 20px 0px ;
+    font-size:58px;
+    color: rgba(24, 21, 21, 0.801);
+}
+.box{
+    background-color: rgba(180, 173, 173, 0.384);
+    width:390px;
+    margin-left:280px;
+}
+#Znd{
+    height:600px;
+    background-image: url(grey.webp);
+    background-size:103%;
+    background-repeat: no-repeat;
+}
+#Third{
+    height:550px;
+    background-image: url(young-woman-business-suit-wearing-hat.jpg);
+    background-size:102%;
+    background-repeat: no-repeat;
+}
+#Four{
+    height:500px;
+    background-image: url(athena.jpg);
+    background-size:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.content3{
+    margin:10px;
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.NEW{
+    text-align: center;
+}
+.parah{
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.BUTTON{
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    text-align: center;     
+}
+#Collection{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    background-color:rgb(230, 225, 225);
+    color: black;
+    box-shadow: none;
+}
+.Sign{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 60px 10px 60px;
+    color: white; 
+    font-family:'Helvetica Neue';
+    box-shadow: 2px 1px 20px 1px rgba(70, 69, 69, 0.705);
+}
+#WOMEN{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.lots{
+    margin:40px;
+    display: grid;
+    grid-template-columns: repeat(3,450px);
+}
+.products{
+  margin: 40px;
+  height: max-content;
+  border-radius:20px ;
+  background-color:rgba(252, 252, 252, 0.863);
+  box-shadow : -1px -0.5px 5px 3px #ddd;
+  padding: 8px 8px 8px 8px;
+}
+img{
+    border-radius :15px;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: xx-large;
+    margin-top:1px;
+    font-size:xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 0%;
+}
+.AI{
+    margin-top:0%;
+    margin-bottom: 0%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.Reviews{
+    margin-bottom: 0%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:17px;
+    padding-top:10px;
+}
+.space{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.price{
+    margin-bottom:0%;
+    font-size: x-large;
+    padding-top: 10px;
+}
+.Sold{
+    height: auto;
+    text-align:end;
+    color: rgb(226, 9, 9);
+    font-size: large;
+    margin-top: 0%;
+}
+.content4{
+    margin:10px;
+    margin-top:30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rows{
+    margin:60px;
+    display:grid;
+    grid-template-columns: repeat(7,300px);
+    gap: 20px;
+}
+.Series{
+    width: 340px;
+}
+.Row2,.Row4,.Row6{ 
+    height:400px;
+}
+.Row1,.Row3,.Row5,.Row7{
+    height:330px ;
+    display: flex;
+    justify-items: center;
+    align-self: center;
+}
+.Row1{
+    background-image: url(Row1.jpg);
+    background-size:140%;
+    background-repeat: no-repeat;
+}
+.Row2{
+    background-image: url(Row2.jpg);
+    background-size: 100%;
+}
+.Row3{
+    background-image: url(Row3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.Row4{
+    background-image: url(Row4.webp);
+    background-size: 100%;
+}
+.Row5{
+    background-image: url(Row5.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.Row6{
+    background-image: url(Row6.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.Row7{
+    background-image: url(Row7.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.content5{
+    background-color: black;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top:30px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content:space-between ;
+}
+.Write{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ONEH{
+    color:grey;
+}
+.overview{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#TEEXT{
+    margin: 40px;
+    box-shadow: -4px 5px 0px 4px rgb(187, 186, 186);
+    padding: 25px 50px 25px 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    background-color: rgb(233, 233, 233);
+    color: rgb(0, 0, 0);
+}
+#TEEXT :hover{
+    background-color: rgb(233, 230, 230);
+    color: azure;
+}
+.Girlpic{
+    margin-left: 0%;
+    width:1300px;
+}
+#Fotter{
+    margin: 0px 200px 10px 200px;
+}
+#Fotter_links{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
